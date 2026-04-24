@@ -1,0 +1,17 @@
+11:32:49  scanning /Users/gaoyang/development/upwork/hincapie-box-demo/samples (mode=mock)
+11:32:49  plan written to logs/plan.jsonl (10 entries)
+11:32:49    [mock] mkdir hincapie_spring_ride  (parent=mock:Hincapie)
+11:32:49    [mock] mkdir hincapie_spring_ride/2026-04-20  (parent=mock:folder:hincapie_spring_ride)
+11:32:49    [mock] UPLOAD  IMG_1011.jpg                      -> 20260420_100600_hin-spr_001.jpg  (4670 bytes, sha=89e6bd7c3595)
+11:32:49    [mock] UPLOAD  IMG_1012.jpg                      -> 20260420_101100_hin-spr_002.jpg  (4669 bytes, sha=7e4015efaa6c)
+11:32:49    [mock] UPLOAD  IMG_1013.jpg                      -> 20260420_101600_hin-spr_003.jpg  (4670 bytes, sha=b9d646eb5665)
+11:32:49    [mock] mkdir hincapie_spring_ride/2026-04-22  (parent=mock:folder:hincapie_spring_ride)
+11:32:49    [mock] UPLOAD  IMG_1021.jpg                      -> 20260422_100700_hin-spr_001.jpg  (4669 bytes, sha=23798b0018f4)
+11:32:49    [mock] UPLOAD  IMG_1022.jpg                      -> 20260422_101200_hin-spr_002.jpg  (4669 bytes, sha=1252bca06aa7)
+11:32:49    [mock] UPLOAD  IMG_1023.jpg                      -> 20260422_101700_hin-spr_003.jpg  (4670 bytes, sha=74f7b20e2c8e)
+11:32:49    [mock] mkdir hincapie_spring_ride/2026-04-23  (parent=mock:folder:hincapie_spring_ride)
+11:32:49    [mock] UPLOAD  IMG_1031.jpg                      -> 20260423_100800_hin-spr_001.jpg  (4669 bytes, sha=bc1615f6636f)
+11:32:49    [mock] UPLOAD  IMG_1032.jpg                      -> 20260423_101300_hin-spr_002.jpg  (4669 bytes, sha=21435167faf1)
+11:32:49    [mock] UPLOAD  IMG_1033.jpg                      -> 20260423_101800_hin-spr_003.jpg  (4669 bytes, sha=29e87b387bac)
+11:32:49    SKIP no-exif  noexif.jpg
+11:32:49  done: {'uploaded': 9, 'skip_dupe': 0, 'skip_no_exif': 1, 'bytes': 42024}
